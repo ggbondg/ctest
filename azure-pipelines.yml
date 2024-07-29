@@ -21,4 +21,4 @@ steps:
 
 - task: CMake@1
   inputs:
-    cmakeArgs: 
+    cmakeArgs: dakjgh
